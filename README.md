@@ -11,5 +11,7 @@ cmd = pip3 install requests
 
 
 TOKEN      =      # Discord hesap token'iniz
+
 API_KEY    =      # Groq API anahtarınız
+
 SERVER_ID' =      # Hedef sunucu ID'si
