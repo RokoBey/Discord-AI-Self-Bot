@@ -16,4 +16,4 @@ API_KEY    =      # Groq API anahtarınız
 
 SERVER_ID' =      # Hedef sunucu ID'si
 
-Destek Veya İletişim İçin Discord = roko.sql
+> Destek Veya İletişim İçin Discord = roko.sql
